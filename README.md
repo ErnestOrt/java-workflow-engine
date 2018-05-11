@@ -1,4 +1,4 @@
-# Java Worflow Engine
+# Java Workflow Engine
 
 Is an open-source, powerful, light-weight, and easily configurable workflow engine.
 
