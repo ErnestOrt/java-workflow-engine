@@ -10,7 +10,7 @@ Having this core, you will be able to define as many Java tasks as you need!
 
 To create your own workflow follow these steps:
 
-1. Inside `com.ernest.javaworkflowengine.tasks` create your tasks extending them from the `BaseTaks`. Doing that, you will have to *Override* `executeTaskLogic` method. Is here where you have to set the *business logic*. Once you have created all your tasks, you are ready to define your own worflow.
+1. Inside `com.ernest.javaworkflowengine.tasks` create your tasks extending them from the `BaseTask`. Doing that, you will have to *Override* `executeTaskLogic` method. Is here where you have to set the *business logic*. Once you have created all your tasks, you are ready to define your own worflow.
 
 ```java
 public class Task1 extends BaseTask {
