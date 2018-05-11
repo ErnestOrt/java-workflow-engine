@@ -2,7 +2,7 @@
 
 Is an open-source, powerful, light-weight, and easily configurable workflow engine.
 
-In contrast to many other Java-based workflow engines, it is not only written in 100% pure Java but it also uses Java for workflow definitions.
+In contrast to many other Java-based workflow engines, it is not only written in **100% pure Java** but it also uses Java for workflow definitions.
 
 Having this core, you will be able to define as many Java tasks as you need!
 
