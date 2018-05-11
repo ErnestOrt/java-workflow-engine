@@ -49,7 +49,7 @@ public class WorkflowExampleBuilder implements WorkflowBuilder{
 ```
 
 ### Contributing
-Start Admin Spring Boot locally and then click the star button to make the author and his neighbors happy :blush:. Then fork the repository and submit a pull request for whatever change you want to be added to this project.
+Click the star button to make the author and his neighbors happy :blush:. Then fork the repository and submit a pull request for whatever change you want to be added to this project.
 
 If you have any questions or improvement proposal, just open an issue.
 
